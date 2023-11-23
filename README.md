@@ -183,3 +183,6 @@ To run tests simply execute the following in the directory containing `main.py`:
 python -m unittest discover
 ```
 
+---
+
+#### Another intriguing action you would want to use - [wallpaper-day](https://github.com/ErickDaniel7/wallpaper-day/tree/main)
