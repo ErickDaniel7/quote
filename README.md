@@ -14,7 +14,7 @@
 
   <hr>
 
-  <imh src="https://github.com/ErickDaniel7/quote/blob/main/IMG/Screenshot_1.png">
+  <img src="https://github.com/ErickDaniel7/quote/blob/main/IMG/Screenshot_1.png">
 
   <hr>
 
