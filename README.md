@@ -7,6 +7,16 @@
 <div align="left">
 <details>
   <summary><h3>How to use</h3></summary>
+  
+  <hr>
+
+  <img src="https://github.com/ErickDaniel7/quote/blob/main/IMG/quote-readme.png">
+
+  <hr>
+
+  <imh src="https://github.com/ErickDaniel7/quote/blob/main/IMG/Screenshot_1.png">
+
+  <hr>
 
 ## Random Quote/Fact on your (Profile) Readme
 
