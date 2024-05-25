@@ -1,7 +1,7 @@
 <div align="center"><h3>Random Quote of the day</h3></div><br>
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝If you open up the case of the original Macintosh, there are 47 signatures there, which are from each member of Apple’s Macintosh division in Interesting?❞</i>
+<i>❝“A program is never less than 90% complete, and never more than 95% complete.”— Terry Baker   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 ```
 
