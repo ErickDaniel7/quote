@@ -1,7 +1,7 @@
 <div align="center"><h3>Random Quote of the day</h3></div><br>
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝The term “World Wide Web” was invented by Tim Berners in 1990.❞</i>
+<i>❝“Java is the most distressing thing to hit computing since MS-DOS.”— Alan Kay  ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 ```
 
