@@ -1,7 +1,7 @@
 <div align="center"><h3>Random Quote of the day</h3></div><br>
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Physics is the universe’s operating system.”— Steven R Garman   ❞</i>
+<i>❝Well, there are two games that were the first ever made in the US called Asteroids and Lunar Lander in 1980.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 ```
 
