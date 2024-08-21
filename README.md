@@ -1,7 +1,7 @@
 <div align="center"><h3>Random Quote of the day</h3></div><br>
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝Sony released a kit that allows PS2s (Linux for PlayStation 2) to be used as a personal computer.❞</i>
+<i>❝“We have to stop optimizing for programmers and start optimizing for users.”— Jeff Atwood   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 ```
 
