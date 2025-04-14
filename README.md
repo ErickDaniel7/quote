@@ -1,7 +1,7 @@
 <div align="center"><h3>Random Quote of the day</h3></div><br>
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“I do not fear computers. I fear lack of them.”— Isaac Asimov  ❞</i>
+<i>❝The Space Invaders game was intended to always be played at the same speed, but as you destroy more aliens, the computer can render faster. This is why the aliens speed up as you near the end of the level.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 ```
 
