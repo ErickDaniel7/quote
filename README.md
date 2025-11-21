@@ -1,7 +1,7 @@
 <div align="center"><h3>Random Quote of the day</h3></div><br>
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Being able to break security doesn’t make you a hacker anymore than being able to hotwire cars makes you an automotive engineer.”— Eric Raymond   ❞</i>
+<i>❝“Before software should be reusable, it should be usable.”— Ralph Johnson  ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 ```
 
