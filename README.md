@@ -1,7 +1,7 @@
 <div align="center"><h3>Random Quote of the day</h3></div><br>
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“If you don’t handle [exceptions], we shut your application down.  That dramatically increases the reliability of the system.”— Anders Hejlsberg   ❞</i>
+<i>❝Only about 10% of the world’s currency is physical money, the rest only exists on computers.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 ```
 
