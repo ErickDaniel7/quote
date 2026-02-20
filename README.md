@@ -1,7 +1,7 @@
 <div align="center"><h3>Random Quote of the day</h3></div><br>
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝The fact that keyboard have ‘Q’ ‘W’ ‘E’ ‘R’ ‘T’ ‘Y’ types of button: When keyboard was invented, it had buttons in alphabetical order, as a result, the typing speed was too fast and the computer used to hang. So, to reduce the speed of a person, qwerty keyboard were invented.❞</i>
+<i>❝“Java is the most distressing thing to hit computing since MS-DOS.”— Alan Kay  ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 ```
 
