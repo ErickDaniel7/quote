@@ -1,7 +1,7 @@
 <div align="center"><h3>Random Quote of the day</h3></div><br>
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝The password for the computer controls of nuclear-tipped missiles of the U.S was 00000000 for eight years.❞</i>
+<i>❝“The Internet?  We are not interested in it.”— Bill Gates, 1993   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 ```
 
