@@ -1,7 +1,7 @@
 <div align="center"><h3>Random Quote of the day</h3></div><br>
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝The original name of Windows was Interface Manager.❞</i>
+<i>❝“We have to stop optimizing for programmers and start optimizing for users.”— Jeff Atwood   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 ```
 
